@@ -12,3 +12,12 @@ Alterei de "node16" para "ESNext"
 npx biome -h
 npx biome init
 
+docker-compose
+
+
+VALIDAÇÃO -> manipulando e validando os dados de saida
+SERIALIZAÇÃO -> manipulando e validando os dados de saida
+
+npm i @fastify/swagger @fastify/swagger-ui
+npm i @fastify/multipart
+    - para lidar com multipart form data
