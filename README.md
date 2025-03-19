@@ -21,3 +21,11 @@ SERIALIZAÇÃO -> manipulando e validando os dados de saida
 npm i @fastify/swagger @fastify/swagger-ui
 npm i @fastify/multipart
     - para lidar com multipart form data
+
+npm i vitest -D 
+npm i vite-tsconfig-paths -D
+
+principais comandos de teste do vitest:
+    - a -> rodar todos os teste novamente
+    - f -> rodar os testes falhados
+    etc...
